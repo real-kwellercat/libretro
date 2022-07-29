@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/pcsx_rearmed.git
+Branch: master
+Rev: e24732050e902bd5402b2b7da7c391d2ca8fa799

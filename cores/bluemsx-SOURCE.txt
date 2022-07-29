@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/bluemsx-libretro.git
+Branch: master
+Rev: 92d0c41b4973854114c7b2d06ab727a266d404c5

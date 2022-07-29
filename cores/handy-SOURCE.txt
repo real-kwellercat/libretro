@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/libretro-handy.git
+Branch: master
+Rev: 517bb2d02909271836604c01c8f09a79ad605297

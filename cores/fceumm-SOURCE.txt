@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/libretro-fceumm.git
+Branch: master
+Rev: b3c35b6515b2b6a789c589f976a4a323ebebe3eb

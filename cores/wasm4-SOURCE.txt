@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/wasm4.git
+Branch: main
+Rev: 0225e14c28a503bf33c5a9e8dd16b5f80e520cff

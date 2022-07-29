@@ -1,0 +1,3 @@
+Repo: https://git.libretro.com/libretro/beetle-psx-libretro.git
+Branch: master
+Rev: 5a24d54d30dd00d817d267cf92fd5b3f4640928f
